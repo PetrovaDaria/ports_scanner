@@ -1,0 +1,9 @@
+{
+	"host": "127.0.0.1",
+	"left_boundary_port": 5000,
+	"right_boundary_port": 5500,
+	"need_tcp_scan": true,
+	"need_udp_scan": true,
+	"need_protocols_scan": true,
+	"threads_count": 20
+}
